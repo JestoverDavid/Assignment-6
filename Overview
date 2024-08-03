@@ -1,0 +1,44 @@
+# Cholera Patients (WHO) Power BI Report
+
+## Overview
+
+This Power BI report provides an in-depth analysis of cholera patients based on data from the World Health Organization (WHO). The report includes various visualizations and metrics to help understand the spread, demographics, and impact of cholera globally.
+
+## Contents
+
+- **Introduction**: Overview of the cholera data and the purpose of the report.
+- **Data Source**: Description of the data source, including the WHO database.
+- **Visualizations**: Explanation of the key visualizations included in the report.
+- **Insights**: Key insights and findings from the data.
+- **Usage Instructions**: How to navigate and use the Power BI report.
+- **Contact Information**: Details for further inquiries or support.
+
+## Data Source
+
+- **Source**: World Health Organization (WHO)
+- **Dataset**: Cholera Patients Data
+- **Update Frequency**: [Specify the frequency of data updates]
+
+## Visualizations
+
+The report includes the following key visualizations:
+
+1. **Global Map of Cholera Cases**: A map visualization showing the geographic distribution of cholera cases.
+2. **Trend Analysis**: Line charts depicting the trend of cholera cases over time.
+3. **Demographic Breakdown**: Bar charts and pie charts breaking down cholera cases by age, gender, and other demographics.
+4. **Mortality Rates**: Visuals showing the mortality rates associated with cholera.
+5. **Regional Analysis**: Comparative analysis of cholera cases across different regions.
+
+## Key Insights
+
+- **Global Trends**: Summary of the global trends in cholera cases.
+- **High-Risk Regions**: Identification of regions with the highest incidence of cholera.
+- **Demographic Impact**: Analysis of which demographics are most affected by cholera.
+- **Seasonal Patterns**: Insights into any seasonal patterns observed in cholera outbreaks.
+
+## Usage Instructions
+
+1. **Opening the Report**: Open the .pbix file using Power BI Desktop.
+2. **Navigating the Report**: Use the navigation pane to switch between different report pages.
+3. **Interacting with Visualizations**: Click on different elements within the visualizations to filter and explore the data.
+4. **Exporting Data**: Use the export options in Power BI to extract data or visuals for further analysis.
